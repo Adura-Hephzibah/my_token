@@ -13,11 +13,11 @@ This DApp allows users to transfer ERC-20 tokens between accounts on the Ethereu
 
 ## Usage
 
-Follow this instructions to install and interact with this Dapp
+Follow this instructions to install and interact with this DApp
 
-- clone this repository using
+- Clone this repository using
   `git clone https://github.com/Adura-Hephzibah/my_token.git `
-  This is the front-end interfacce of the DApp
+  This is the front-end interface of the DApp
 
 - Install metamask wallet browser extension on your browser and create a wallet and create 2 addresses for the interaction.
 
